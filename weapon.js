@@ -1,0 +1,6 @@
+class weapon {
+    constructor(){
+        this.
+    }
+
+}
